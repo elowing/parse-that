@@ -1,0 +1,19 @@
+GIT
+  remote: git@github.com:meh/ruby-mbox.git
+  revision: 88cd73152fa9164ea4397d22b021b6fb8c70b028
+  specs:
+    mbox (0.1.0)
+      call-me
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    call-me (0.0.2.3)
+      refining
+    refining (0.0.5.5)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  mbox!
