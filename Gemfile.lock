@@ -10,10 +10,18 @@ GEM
   specs:
     call-me (0.0.2.3)
       refining
+    coderay (1.1.0)
+    method_source (0.8.2)
+    pry (0.10.1)
+      coderay (~> 1.1.0)
+      method_source (~> 0.8.1)
+      slop (~> 3.4)
     refining (0.0.5.5)
+    slop (3.6.0)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
   mbox!
+  pry
